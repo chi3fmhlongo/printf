@@ -1,3 +1,5 @@
-# 0x011 .C Printf 
+# 0x11. C - printf
 
-Project by Siyabonga Khwela and Syanda Mntambo
+# Team Project
+
+Siyabonga Khwela and Syanda Mntambo
